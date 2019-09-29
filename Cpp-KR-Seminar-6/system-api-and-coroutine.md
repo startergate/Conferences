@@ -30,3 +30,5 @@ System API와 Coroutine 결합하기 - 박동하
 * 아 뭐였지
 
 뒤는 알아듣기 어려워서 적지 않았습니다
+
+File descriptor? File-like?
