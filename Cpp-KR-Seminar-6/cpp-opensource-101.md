@@ -21,3 +21,8 @@ CI
 * Codacy
 * CodeFactor
 * LGRM
+
+테스트 커버리지
+* CppUnit
+* lcov/gcov
+* Codecov
