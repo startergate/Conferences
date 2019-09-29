@@ -10,3 +10,9 @@ CMake로 빌드<br>
 * googletest
 * Catch2
 * doctest
+
+CI
+* Travis CI
+* Circle CI
+* AppVeyor
+* Azure Pipeline
