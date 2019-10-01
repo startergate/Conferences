@@ -4,6 +4,7 @@
 ## 2018
 ### 10월
 * GDG Devfest 2018 Seoul
+* DEVIEW 2018
 ### 11월
 * G-CON 2018
 * GDG Devfest 2018 Gwangju
