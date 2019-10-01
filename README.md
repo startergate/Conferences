@@ -22,4 +22,4 @@
 ### 8월
 * [PyCon Korea 2019](https://github.com/surplus-developer/PyConKorea2019)
 ### 9월
-* C++ Korea 제6회 세미나 - "종합 선물 세트 제2호"
+* [C++ Korea 제6회 세미나 - "종합 선물 세트 제2호"](./Cpp-KR-Seminar-6/index.md)
