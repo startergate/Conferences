@@ -20,6 +20,6 @@
 ### 7월
 * I/O Extended 2019 WebTech
 ### 8월
-* PyCon Korea 2019
+* [PyCon Korea 2019](https://github.com/surplus-developer/PyConKorea2019)
 ### 9월
 * C++ Korea 제6회 세미나 - "종합 선물 세트 제2호"
