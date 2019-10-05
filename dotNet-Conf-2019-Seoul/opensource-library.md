@@ -11,3 +11,8 @@ Unity mono와 일반 mono는 차이가 큼
 Roslyn Analyzers?
 * IL 바이트코드 수준에서도 조작 가능
 * NuGet 의존성으로 설치
+
+DocFX?
+* MD 기반의 정적 웹사이트 생성기
+* C# 코드의 XML 주석을 추출하여 API 문서 자동 생성
+
