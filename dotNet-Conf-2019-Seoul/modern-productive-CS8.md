@@ -15,3 +15,5 @@ is { } VAR
 Local Function
 
 간단해진 using
+
+현대적인 클라우드와 대량의 데이터를 처리할 수 있도록 발전
