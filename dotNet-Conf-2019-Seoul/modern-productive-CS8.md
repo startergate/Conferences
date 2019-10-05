@@ -11,3 +11,7 @@ is { } VAR
 인터페이스에 기본 메소드
 
 배열 인덱스의 새로운 접근 방식
+
+Local Function
+
+간단해진 using
