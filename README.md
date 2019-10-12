@@ -26,3 +26,6 @@
 * [C++ Korea 제6회 세미나 - "종합 선물 세트 제2호"](./Cpp-KR-Seminar-6/index.md)
 ### 10월
 * [.NET Conf 2019 @ Seoul](./dotNet-Conf-2019-Seoul/index.md)
+* 데이터야놀자 2019
+* GDG Devfest 2019 Seoul
+* 
