@@ -28,4 +28,4 @@
 * [.NET Conf 2019 @ Seoul](./dotNet-Conf-2019-Seoul/index.md)
 * 데이터야놀자 2019
 * GDG Devfest 2019 Seoul
-* 
+* DEVIEW 2019
