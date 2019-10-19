@@ -5,3 +5,5 @@
 * [카트라이더 TMI 포스트 모템](./kartrider-tmi.md)
 * [웹으로 표현하는 데이터 시각화와 스토리텔링](./data-visualize-via-web.md)
 * [타다(TADA) 서비스의 데이터 웨어하우스 : 태초부터 한계까지](./tada-server-data-warehouse.md)
+* [분석과 커뮤니케이션의 시행착오를 줄이는 데이터 문화 만들기](./data-culture.md)
+* [온라인 뉴스 댓글 생태계를 흐리는 어뷰저 분석기](./fuck-abusers.md)
