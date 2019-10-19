@@ -7,3 +7,4 @@
 * [타다(TADA) 서비스의 데이터 웨어하우스 : 태초부터 한계까지](./tada-server-data-warehouse.md)
 * [분석과 커뮤니케이션의 시행착오를 줄이는 데이터 문화 만들기](./data-culture.md)
 * [온라인 뉴스 댓글 생태계를 흐리는 어뷰저 분석기](./fuck-abusers.md)
+* [모빌리티 데이터팀 신입 분석가의 1년 회고](./one-year-on-data-analyst.md)
