@@ -28,7 +28,7 @@
   * 스파크로 write할 때는 upsert가 안됨
   * 그래서
     * 임시 테이블로 write
-    * 이존 테이블에 upsert
+    * 기존 테이블에 upsert
   * DataFrame의 schema 정보 사용
   * 작업이 멱등적이라서 좋음
   
