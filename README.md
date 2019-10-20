@@ -27,5 +27,5 @@
 ### 10월
 * [.NET Conf 2019 @ Seoul](./dotNet-Conf-2019-Seoul/index.md)
 * [데이터야놀자 2019](./datayanolja-2019/index.md)
-* GDG Devfest 2019 Seoul
+* [GDG Devfest 2019 Seoul](./gdg-devfest-seoul-2019/index.md)
 * DEVIEW 2019
