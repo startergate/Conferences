@@ -1,0 +1,1 @@
+# 네이버 로그를 지탱하는 힘  (DataStore 로그 저장소) [#](https://deview.kr/data/deview/2019/presentation/[211]네이버+로그를+지탱하는+힘_20191025_강민우_이윤경.pdf)
