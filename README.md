@@ -31,3 +31,5 @@
 * [데이터야놀자 2019](./datayanolja-2019/index.md)
 * [GDG Devfest 2019 Seoul](./gdg-devfest-seoul-2019/index.md)
 * [DEVIEW 2019](./deview-2019/index.md)
+### 11월
+* [G-CON 2019](./G-CON-2019/index.md)
