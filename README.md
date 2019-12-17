@@ -15,7 +15,7 @@
 * ML&DS tutorial with kaggle 2019
 * 시작해요 언리얼 2019
 ### 5월
-* [Unite Seoul 2019](./Unite-Seoul-2019/index.md)
+* [Unite Seoul 2019](Unite-Seoul-2019/)
 ### 6월
 * I/O Extended 2019 판교
 * I/O Extended 2019 인천
@@ -25,11 +25,11 @@
 ### 8월
 * [PyCon Korea 2019](https://github.com/surplus-developer/PyConKorea2019)
 ### 9월
-* [C++ Korea 제6회 세미나 - "종합 선물 세트 제2호"](./Cpp-KR-Seminar-6/index.md)
+* [C++ Korea 제6회 세미나 - "종합 선물 세트 제2호"](Cpp-KR-Seminar-6/)
 ### 10월
-* [.NET Conf 2019 @ Seoul](./dotNet-Conf-2019-Seoul/index.md)
-* [데이터야놀자 2019](./datayanolja-2019/index.md)
-* [GDG Devfest 2019 Seoul](./gdg-devfest-seoul-2019/index.md)
-* [DEVIEW 2019](./deview-2019/index.md)
+* [.NET Conf 2019 @ Seoul](dotNet-Conf-2019-Seoul/)
+* [데이터야놀자 2019](datayanolja-2019/)
+* [GDG Devfest 2019 Seoul](gdg-devfest-seoul-2019/)
+* [DEVIEW 2019](deview-2019/)
 ### 11월
-* [G-CON 2019](./G-CON-2019/index.md)
+* [G-CON 2019](G-CON-2019/)
