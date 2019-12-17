@@ -33,3 +33,5 @@
 * [DEVIEW 2019](deview-2019/)
 ### 11월
 * [G-CON 2019](G-CON-2019/)
+### 12월
+* [월간 GDG: 광주 12월호 (2019)](monthly-gdg-gwangju-2019-12/)
