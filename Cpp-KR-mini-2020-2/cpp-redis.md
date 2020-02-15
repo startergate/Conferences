@@ -29,3 +29,6 @@ C++ 라이브러리
   * POCO 사용
     * POCO 공식 redis
     * redis-client
+    
+랭킹 구현 쉽게 가능
+실시간 가능
