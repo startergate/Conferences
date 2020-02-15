@@ -17,7 +17,7 @@ Redis
 Lua 스크립트 지원
 
 C++ 라이브러리
-* hiredis (C 언어용 라이브러리) 사용하여 통신신
+* hiredis (C 언어용 라이브러리) 사용하여 통신
   * RedisCpp-hiredis
   * redis_client (기능이 좀 더 많음)
   * r3c (redis 5.0까지 지원)
