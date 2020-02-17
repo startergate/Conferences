@@ -38,4 +38,3 @@
 ## 2020년
 ### 2월
 * [C++ Korea 2월 미니 세미나](Cpp-KR-mini-2020-2/)
-* [KCD(Korea Community Day) 2020](kcd-2020/)
