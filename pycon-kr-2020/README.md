@@ -1,2 +1,2 @@
 # 파이콘 한국 2020 (온라인)
-* [금융 언어 이해를 위해 개발된 ALBERT 톺아보기](./albert.md)
+* [Django ORM (QuerySet)구조와 원리 그리고 최적화전략](./django-orm.md)
