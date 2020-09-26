@@ -18,23 +18,31 @@
   * => 필드 하나당 쿼리 하나
    => 느린 로딩
  * CaptureQueriesContext 활용 - SQL Performance 커버
+  * ![](./statics/2.png)
 ### 실수하기 쉬운 QuerySet의 특성들
 * prefetch_related와 filter는 완전 별개의 쿼리 실행
  * 메인 쿼리에서 Join하고 추가 쿼리에서 한번 더 조회
- * ![](./3.png)
+ * ![](./statics/3.png)
 * annotate => select_related => filter => prefetch_related
  * 이 순서가 실제 SQL 실행 순서와 가장 유사
  * 다른건 몰라도 prefetch_related는 filter 뒤에 두는게 낫다.
 * QuerySet 캐시를 재활용하지 못하는 queryset 호출
  * .all을 호출하고 list 문법 사용해서 사용해야
- * ![](./4.png)
+ * ![](./statics/4.png)
 * RawQuerySet (.raw) 은 NativeSQL이 아니다
  * 여전히 prefetch_related(), Prefetch() 사용 가능
  * 대신 아래의 내용은 사용 불가
- * ![](./5.png)
+ * ![](./statics/5.png)
 * 서브 쿼리 발생 조건
  * QuerySet 안에 QuerySet이 있는 경우에 발생
   * QuerySet이 아니도록 만들어 해결
  * exclude를 역방향 참조 모델에 사용하는 경우에 발생
   * Join으로 풀리게 유도가 불가능
   * prefetch_related(Prefetch())를 사용하는 방식으로 대체
+  * 정방향에서는 정상 작동
+* QuerySet의 반환 타입
+ * ![](./statics/6.png)
+ * values(), values_list() 사용시 EagerLoading 무시
+  * select_related, prefetch_related 전부 무시
+### QuerySet을 잘 사용하는 법
+![](./statics/7.png)
