@@ -38,3 +38,5 @@
 ## 2020년
 ### 2월
 * [C++ Korea 2월 미니 세미나](Cpp-KR-mini-2020-2/)
+### 9월
+* [PyCon Korea 2020](pycon-kr-2020/)
