@@ -1,7 +1,7 @@
 # Conferences
 ![](https://img.shields.io/github/repo-size/startergate/Conferences.svg)
 
-가 본 컨퍼런스들을 정리합니다. clone은 안 하시는 걸 추천드립니다...
+(가) 본 컨퍼런스들을 정리합니다.
 
 ## 2018년
 ### 10월
