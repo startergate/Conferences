@@ -1,4 +1,5 @@
 # [Django ORM (QuerySet)구조와 원리 그리고 최적화전략](https://pycon.kr/2020/program/talk/11)
+[PDF](https://github.com/KimSoungRyoul/Django_ORM_pratice_project/files/5286018/PyConKR-2020-.ORM_.pdf)
 
 #### Django ORM의 특징
 * Lazy Loading
