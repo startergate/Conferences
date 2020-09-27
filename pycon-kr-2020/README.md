@@ -4,3 +4,4 @@
 * [글로벌 방송국 서비스 1인 개국기](./launching-service.md)
 ### Day 2
 * [gRPC 프레임워크를 만들며 알아보는 파이썬](./grpc-python.md)
+* [How to use Python in Video streaming service](./video-streaming.md)
