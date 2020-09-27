@@ -3,7 +3,7 @@
 * 서버와 클라이언트 모두 Stub? Proto? 를 공유해야 함
 
 * ProtoBuf는 Swagger처럼 요청과 응답을 명세함
-* ![](./8.png)
+* ![](./statics/8.png)
 
 * ProtoBuf를 컴파일해서 만든 Stub 파일에서 클래스를 상속해서 서비스 구현
 ### Python gRPC의 불편함
