@@ -40,3 +40,6 @@
 * [C++ Korea 2월 미니 세미나](Cpp-KR-mini-2020-2/)
 ### 9월
 * [PyCon Korea 2020](pycon-kr-2020/)
+## 2021년
+### 11월
+* [G-CON 2021](G-CON-2021/)
