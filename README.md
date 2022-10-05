@@ -45,4 +45,4 @@
 * [G-CON 2021](G-CON-2021/)
 ## 2022년
 ### 10월
-* [PyCon Korea 2022](PyCon-Korea-2022/)
+* [PyCon Korea 2022](pycon-kr-2022/)
