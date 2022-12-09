@@ -48,3 +48,4 @@
 * [PyCon Korea 2022](pycon-kr-2022/)
 ### 11월
 * [G-CON 2022](G-CON-2022/)
+* [NHN Forward 2022](NHN-Forward-2022/)
