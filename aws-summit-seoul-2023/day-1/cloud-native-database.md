@@ -17,6 +17,15 @@
 
 ### 쿠팡의 사례
 
+![](./static/IMG_3579.jpeg)
+![](./static/IMG_3580.jpeg)
+![](./static/IMG_3581.jpeg)
+![](./static/IMG_3582.jpeg)
+![](./static/IMG_3583.jpeg)
+![](./static/IMG_3584.jpeg)
+![](./static/IMG_3585.jpeg)
+![](./static/IMG_3586.jpeg)
+
 ### 특수 목적 고려할 요소
 * 어플리케이션 워크로드
 * 데이터의 형태
