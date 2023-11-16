@@ -46,6 +46,11 @@ BOTTOM UP의 효과
 
 ![](static/lostark/image12)
 
+## 소통에 대한 이야기
+![](static/lostark/image13)
+* 말의 표면이 아닌 본질에 집중
+  ![](static/lostark/image14)
+![](static/lostark/image15)
+![](static/lostark/image16)
 
-
-## 로스트아크에서 경험한 
+소통은 기술이 아니라 마음
