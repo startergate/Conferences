@@ -9,19 +9,19 @@
 
 쿼터뷰 놀이의 블록버스터화
 
-![](static/lostark/image1)
-![](static/lostark/image2)
+![](static/lostark/IMG_4502.jpeg)
+![](static/lostark/IMG_4503.jpeg)
 
 ### 3년간의 개발 및 비전 제시
 * 키워드 문서로 제작하여 게임의 컴포넌트를 쉽게 확인하도록 함
 * 글을 더 많이 읽을수 있도록 웹 형식의 세계관 문서를 만들어 제공함
 * 전투 이터레이션을 통해 빠른 전투 메커니즘 검증
-  ![](static/lostark/image3)
+  ![](static/lostark/IMG_4504.jpeg)
 * 생각하는 게임의 기준선은 빠르게 정리하는것이 좋음
   * 프로그래머와의 규약(Capacity Planning)은 빠를수록 좋다
-  ![](static/lostark/image4)
+  ![](static/lostark/IMG_4505.jpeg)
 * 프로그래머와의 대화법
-  ![](static/lostark/image5)
+  ![](static/lostark/IMG_4506.jpeg)
 
 ### 리더십의 위기와 승부수
 ![](static/lostark/image6)
