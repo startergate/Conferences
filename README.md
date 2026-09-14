@@ -53,4 +53,7 @@
 ### 2월
 * [DEVIEW 2023](deview-2023/)
 ### 5월
-* [AWS Summit Seoul 2023](aws-summit-seoul-2023)
+* [AWS Summit Seoul 2023](aws-summit-seoul-2023/)
+## 2026년
+* [AWS Summit Seoul 2026](aws-summit-seoul-2026/)
+* [NDC26](ndc26/)
