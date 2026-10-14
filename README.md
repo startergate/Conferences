@@ -32,7 +32,7 @@
 * [GDG Devfest 2019 Seoul](gdg-devfest-seoul-2019/)
 * [DEVIEW 2019](deview-2019/)
 ### 11월
-* [G-CON 2019](G-CON-2019/)
+* [G-CON 2019](g-con/2019/)
 ### 12월
 * [월간 GDG: 광주 12월호 (2019)](monthly-gdg-gwangju-2019-12/)
 ## 2020년
@@ -42,12 +42,12 @@
 * [PyCon Korea 2020](pycon-kr-2020/)
 ## 2021년
 ### 11월
-* [G-CON 2021](G-CON-2021/)
+* [G-CON 2021](g-con/2021/)
 ## 2022년
 ### 10월
 * [PyCon Korea 2022](pycon-kr-2022/)
 ### 11월
-* [G-CON 2022](G-CON-2022/)
+* [G-CON 2022](g-con/2022/)
 * [NHN Forward 2022](NHN-Forward-2022/)
 ## 2023년
 ### 2월
