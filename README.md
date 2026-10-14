@@ -57,3 +57,4 @@
 ## 2026년
 * [AWS Summit Seoul 2026](aws-summit-seoul-2026/)
 * [NDC26](ndc26/)
+* [if(kakao)26](if-kakao-26/)
