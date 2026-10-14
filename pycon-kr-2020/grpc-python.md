@@ -1,4 +1,7 @@
 # [gRPC 프레임워크를 만들며 알아보는 파이썬](https://pycon.kr/2020/program/talk/19)
+
+[YouTube](https://youtu.be/UbdCFocZ7GM)
+
 * gRPC는 프로토콜 버퍼를 사용하기 때문에 XML보다 데어터 처리시 20~100배 빠르고 3~10배 작음
 * 서버와 클라이언트 모두 Stub? Proto? 를 공유해야 함
 

@@ -1,4 +1,7 @@
 # K8s 도입하면서 겪은 일들
+
+[YouTube](https://youtu.be/JBGsqsoGxEo)
+
 ### 발표자: 정재범 (NHN Dooray)
 
 ## 도입 배경과 배포

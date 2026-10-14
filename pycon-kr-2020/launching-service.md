@@ -1,4 +1,7 @@
 # [글로벌 방송국 서비스 1인 개국기](https://pycon.kr/2020/program/talk/14)
+
+[YouTube](https://youtu.be/8Ue4L3F2YqA)
+
 * FastAPI?
  * pydantic orm_mode로 django 모델 다룸
 

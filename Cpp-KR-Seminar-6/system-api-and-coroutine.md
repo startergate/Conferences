@@ -1,5 +1,8 @@
 System API와 Coroutine 결합하기 - 박동하
 ---
+
+[YouTube](https://youtu.be/F6E_cLOIe-U)
+
 서브루틴는 코루틴의 일부분이다?
 
 코루틴

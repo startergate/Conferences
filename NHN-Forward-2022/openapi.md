@@ -1,4 +1,7 @@
 # API 설계 우선 방식과 OpenAPI Specification
+
+[YouTube](https://youtu.be/28Tz7gos5DQ)
+
 ### 발표자: 신진호 (NHN Cloud)
 ## API 우선 방식
 API-first

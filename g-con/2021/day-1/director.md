@@ -1,2 +1,4 @@
 # 일러스트레이터에서 디렉터까지
 
+[YouTube](https://youtu.be/fviijDUizX0)
+

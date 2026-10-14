@@ -1,6 +1,8 @@
 # 월간 GDG: 광주 12월호 (2019)
 ### 레이블링 조금 잘못돼도 괜찮아요
 
+[YouTube](https://youtu.be/KnYtd5fxg6c)
+
 레이블 노이즈가 늘어나면 불필요한 패턴을 학습하게 됨\
 => Feature Extraction 어려워짐 => 모델 성능 저하
 

@@ -1,5 +1,7 @@
 # C++를 이용한 Redis 프로그래밍
 
+[YouTube (발표자 업로드본)](https://youtu.be/pGo1TnPH43Y)
+
 Redis
 * key-value
 * Memory db

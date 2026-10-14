@@ -1,5 +1,7 @@
 # 새로워진 C#: C# 8의 새로운 기능
 
+[YouTube](https://youtu.be/UJNll6rxqGo)
+
 NullReferenceException을 Nullable로 더 쉽게 검사
 
 is { } VAR

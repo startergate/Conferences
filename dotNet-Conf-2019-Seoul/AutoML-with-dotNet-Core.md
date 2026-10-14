@@ -1,5 +1,7 @@
 # .NET Core로 해보는 AutoML
 
+[YouTube](https://youtu.be/bxYtXMAjRE8)
+
 ML.NET: .NET 개발자를 위한 오픈소스 크로스플랫폼 라이브러리
 Model Builder와 CLI 제공
 

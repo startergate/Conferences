@@ -1,4 +1,7 @@
 # 네이버 스케일로 카프카 컨슈머 사용하기
+
+[YouTube](https://youtu.be/OxMdru93E6k)
+
 이동진 (NAVER Platform Labs)
 
 ### Kafka

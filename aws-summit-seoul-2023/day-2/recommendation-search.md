@@ -1,5 +1,7 @@
 # Amazon Neptune 및 Elastic을 이용한 추천 서비스 및 검색 플랫폼 구축하기
 
+[YouTube](https://youtu.be/YmNf5obo4Q8)
+
 ## Neptune을 활용한 추천 서비스 만들기
 ![]()
 

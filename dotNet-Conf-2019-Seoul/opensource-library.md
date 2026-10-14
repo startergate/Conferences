@@ -1,4 +1,7 @@
 # 여러 .NET 구현과 플랫폼을 두루 지원하는 오픈소스 라이브러리 만들기
+
+[YouTube](https://youtu.be/CiejcYxz3fs)
+
 왜 .NET?
 * 게임 업계는 C++를 많이 씀
 * 근데 쓰기는 좀

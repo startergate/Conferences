@@ -1,5 +1,7 @@
 # 키노트
 
+[YouTube](https://youtu.be/3wG0aAKMaOA)
+
 ## AI, 모두의 경쟁력이 되다. 팀네이버
 
 ## HyperCLOVA X

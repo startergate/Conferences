@@ -1,4 +1,7 @@
 # 실전 Vault 도입기
+
+[YouTube](https://youtu.be/hwJet__03AA)
+
 * Kerberos
   * MIT
   * 단일 서버 구성

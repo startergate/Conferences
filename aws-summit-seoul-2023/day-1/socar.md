@@ -1,4 +1,7 @@
 # SOCAR는 어떻게 2만대의 차량을 운영할까?: IoT Data의 수집부터 분석까지
+
+[YouTube](https://youtu.be/gZElFqytfac)
+
 ## 다양한 산업에서의 IoT 중요성
 ### 제조 산업 트렌드
 * 데이터는 석유 그 이상

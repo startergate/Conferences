@@ -1,4 +1,7 @@
 # 편안한 휴식 시간을 지켜줄 안정적인 백엔드 운영과 개발 기법
+
+[YouTube](https://youtu.be/2hCbY_mpqSg)
+
 ### 발표자: 정재범 (NHN Dooray)
 
 개발 담당자가 서비스를 직접 운영

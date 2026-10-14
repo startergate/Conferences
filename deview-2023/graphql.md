@@ -1,4 +1,7 @@
 # GraphQL 잘 쓰고 계신가요? (Production-ready GraphQL)
+
+[YouTube](https://youtu.be/9G2vT4C4sAY)
+
 오제관, 권기범 (NAVER Glace)
 
 Custom Scalar

@@ -1,5 +1,8 @@
 virtual과 Concepts 비교 - 박동하
 -----
+
+[YouTube](https://youtu.be/NRQlLmWmG_k)
+
 Concepts
 * Generic Programming 패러다임
 

@@ -1,4 +1,7 @@
 # 클라우드 환경 기반 실시간 데이터 처리의 유실 없는 Geo-Replication 구축
+
+[YouTube](https://youtu.be/LuHuXhIcjRc)
+
 김영진, 이모원, 신수인 (NAVER Data Insight Center)
 
 ## IDC 장애의 심각성 그리고 Geo Replication

@@ -1,5 +1,7 @@
 # 통계 시스템
 
+[YouTube](https://youtu.be/kZnWWq_HzdM)
+
 공통 조건
 * 대부분이 증감 추의 포함
 * 어떤 이벤트 발생 시 수집 대상에 포함

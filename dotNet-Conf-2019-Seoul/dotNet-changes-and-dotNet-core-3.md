@@ -1,5 +1,7 @@
 # 닷넷 17년의 변화 정리 및 닷넷 코어 3.0
 
+[YouTube](https://youtu.be/pTN2paCE3kc)
+
 CLI 구현체 => CLR<br>
 CLS 구현체 => C#, VB.NET
 

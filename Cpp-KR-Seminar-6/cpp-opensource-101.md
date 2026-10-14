@@ -1,5 +1,8 @@
 C++ 오픈소스 101 - 옥찬호
 ----------
+
+[YouTube](https://youtu.be/6jBNQHQ7Kfo)
+
 오픈소스 프로젝트는 유지 보수 관리가 중요<br>
 CMake로 빌드<br>
 코드 스타일을 정하자
