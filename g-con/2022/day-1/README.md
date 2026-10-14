@@ -1,4 +1,8 @@
-# G-CON 2022 DAY 1
-* [인터랙티브 스토리텔링: 도전과 기회](interactive-storytelling.md)
-* [게임 제작자의 올바른 사고 방식](game-maker-mindset.md)
-* [일본 액션 게임의 거장, 카미야 히데키의 게임 개발 이야기](platinum-games-dev-story.md)
+# G-CON 2022 DAY 1 (11/17)
+| Time | Topic                                                                                    |
+|------|------------------------------------------------------------------------------------------|
+| -    | [인터랙티브 스토리텔링: 도전과 기회](./interactive-storytelling.md)                      |
+| -    | [게임 제작자의 올바른 사고 방식](./game-maker-mindset.md)                                |
+| -    | [일본 액션 게임의 거장, 카미야 히데키의 게임 개발 이야기](./platinum-games-dev-story.md) |
+| -    | [컬트를 시작하는 방법! Feat. '컬트 오브 더 램' 개발 이야기](./cult-of-the-lamb.md)       |
+| -    | [월드 오브 워크래프트: 스토리에서 이미지로 가는 과정](./story-to-image.md)               |

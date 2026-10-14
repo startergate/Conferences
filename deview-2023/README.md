@@ -1,7 +1,10 @@
-# DEVIEW 2019
-* DAY 1
-  * [키노트](./keynote.md)
-  * [네이버 검색은 어떻게 나보다 더 내 의도를 잘 아는가?: AiRSearch 반응형 추천](./airsearch.md)
-  * [바닥까지 파보는! Hbase random read 성능 개선기](./hbase-random-read.md)
-  * [지금까지 이런 검색은 없었다. 이것은 검색인가 추천인가 - 네이버 스마트블록 개인화 검색](./smartsearch.md)
-  * [네이버 스케일로 카프카 컨슈머 사용하기](kafka.md)
+# DEVIEW 2023 DAY 1 (2/27)
+| Time          | Topic                                                                   |
+|---------------|-------------------------------------------------------------------------|
+| 09:50 ~ 10:45 | [키노트](./keynote.md)                                                     |
+| 11:15 ~ 12:00 | [네이버 검색은 어떻게 나보다 더 내 의도를 잘 아는가?: AiRSearch 반응형 추천](./airsearch.md)      |
+| 12:15 ~ 13:00 | [바닥까지 파보는! Hbase random read 성능 개선기](./hbase-random-read.md)            |
+| 14:00 ~ 14:45 | [지금까지 이런 검색은 없었다. 이것은 검색인가 추천인가 - 네이버 스마트블록 개인화 검색](./smartsearch.md)   |
+| 15:00 ~ 15:45 | [네이버 스케일로 카프카 컨슈머 사용하기](./kafka.md)                                     |
+| 16:00 ~ 16:45 | [GraphQL 잘 쓰고 계신가요? (Production-ready GraphQL)](./graphql.md)           |
+| 17:00 ~ 17:45 | [클라우드 환경 기반 실시간 데이터 처리의 유실 없는 Geo-Replication 구축](./geo-replication.md) |
