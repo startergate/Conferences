@@ -1,3 +1,6 @@
+---
+title: AWS Summit Seoul 2023
+---
 # AWS Summit Seoul 2023
 | Day               | Date |
 |-------------------|------|
