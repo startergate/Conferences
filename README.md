@@ -3,6 +3,8 @@
 
 (가) 본 컨퍼런스들을 정리합니다.
 
+노트는 https://startergate.dev/ko/conferences/ 에서 볼 수 있습니다.
+
 ## 2018년
 ### 10월
 * GDG Devfest 2018 Seoul
